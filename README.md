@@ -4,3 +4,5 @@ This project aims to:
 2. Characterize the demand based on identified patterns in the time series
 3. Estimate the value of the NYC market for Uber, and its revenue growth
 4. Other insights about the usage of the service
+
+Download the dataset from : https://s3.amazonaws.com/nyc-tlc/misc/uber_nyc_data.csv
